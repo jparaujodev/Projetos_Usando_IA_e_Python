@@ -21,7 +21,7 @@
 
 <dl>Python "https://www.python.org/downloads/"</dl>
 <dl>Visual Studio Code "https://code.visualstudio.com/download"</dl>
-<d1>Bibliotecas: time, pandas, pyautogui<d1>
+<d1>Bibliotecas: time, pandas, pyautogui</d1>
 <dl>Base de Dados fictícia</dl>
 
 
