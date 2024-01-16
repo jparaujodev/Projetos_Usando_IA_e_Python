@@ -23,6 +23,13 @@
 <d1>Bibliotecas: time, pandas, pyautoguiy</d1>
 <dl>Base de Dados fictícia</dl>
 
+# Teste e execução do código
+
+<p>As linhas de pyautogui.moveTo, devem ser trocadas dependeno da sua teal do computador.</p>
+<p>Execute o código e deixe rodar normalmente</p>
+
+<p>Certifique-se de instalar todas os pré-requisitos e bibliotecas, além de importar uma base</p>
+
 
 ## Funcionalidades Projeto de análise de dados callcenter
 
@@ -42,14 +49,38 @@
 <d1>Bibliotecas:pandas, plotly</d1>
 <dl>Base de Dados fictícia</dl>
 
+# Teste e execução do código
 
-## Como rodar os testes
+<p>Apenas troque a base de dados que importamos e faça os tratamento de acordo com a base após isso verifique o que realmente quer que seja análisado.</p>
+<p>Execute o código e deixe rodar normalmente</p>
 
+<p>Certifique-se de instalar todas os pré-requisitos e bibliotecas, além de importar uma base</p>
+
+
+## Funcionalidades Projeto de Previsões com IA
+
+:heavy_check_mark: Importa a base de dados
+
+:heavy_check_mark: Faz um tratamento na base de dados
+
+:heavy_check_mark: Treinar e testar os modelos IA
+
+:heavy_check_mark: Verificar qual modelo teve o melhor resultado nos testes
+
+:heavy_check_mark: Utilizar esse modelo para análisar e prever uma nova base de dados
+
+
+## Pré-requisitos
+
+<dl>Python "https://www.python.org/downloads/"</dl>
+<dl>Visual Studio Code "https://code.visualstudio.com/download"</dl>
+<d1>Bibliotecas:pandas, scikit-learn, numpy</d1>
+<dl>Base de Dados fictícia</dl>
 
 
 # Teste e execução do código
 
-<p>As linhas de pyautogui.moveTo, devem ser trocadas dependeno da sua teal do computador.</p>
+<p>Importe uma base de dados com dados antigos que precisas que a IA aprenda e teste, feito os teste importe uma nova base de dados e peça para a IA fazer previsões  na coluna que deseja verificar.</p>
 <p>Execute o código e deixe rodar normalmente</p>
 
 <p>Certifique-se de instalar todas os pré-requisitos e bibliotecas, além de importar uma base</p>
